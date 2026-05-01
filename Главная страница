@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Создание сайтов</title>
+    <style>
+        body { font-family: Arial; margin: 20px; background: #f5f5f5; }
+        nav a { margin-right: 15px; text-decoration: none; color: blue; }
+        h1 { color: darkblue; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Главная</a>
+    <a href="technologies.html">Технологии</a>
+    <a href="languages.html">Языки</a>
+</nav>
+
+<h1>Создание сайтов</h1>
+
+<p>Сайты — это важная часть современного интернета. Они создаются с помощью различных технологий и языков программирования.</p>
+
+<img src="https://via.placeholder.com/400" alt="Пример сайта">
+
+<p>Перейдите в разделы, чтобы узнать больше:</p>
+
+</body>
+</html>
