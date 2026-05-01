@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Технологии</title>
+    <style>
+        body { font-family: Arial; margin: 20px; }
+        nav a { margin-right: 15px; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Главная</a>
+    <a href="technologies.html">Технологии</a>
+    <a href="languages.html">Языки</a>
+</nav>
+
+<h1>Основные технологии создания сайтов</h1>
+
+<ul>
+    <li><b>HTML</b> — структура страницы</li>
+    <li><b>CSS</b> — оформление и дизайн</li>
+    <li><b>JavaScript</b> — интерактивность</li>
+</ul>
+
+<img src="https://via.placeholder.com/400" alt="Код сайта">
+
+<p>Эти технологии используются вместе для создания современных веб-сайтов.</p>
+
+</body>
+</html>
